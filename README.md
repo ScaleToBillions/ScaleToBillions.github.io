@@ -40,7 +40,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 # Dynamic Programming
 
 ## Knapsack
-### 0/1 Knapsack
+### -0/1 Knapsack
 | No. | Problem | 
 |---|---|
 |1| [0/1 Knapsack](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) |
@@ -51,7 +51,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 |6|[Count Number of subset sum with given difference](#)|
 |7|[Target Sum](https://leetcode.com/problems/target-sum/)|
 
-### Unbounded knapsack
+### -Unbounded knapsack
 |1|[A](#)|
 |2|[B](#)|
 
