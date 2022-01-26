@@ -42,5 +42,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 | No. | Problem | 
 |--|--|
 |1| [0/1 Knapsack](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) |
-|2|https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1/|
+|2|[Subset Sum](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1/)|
 
